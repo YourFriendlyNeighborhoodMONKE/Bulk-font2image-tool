@@ -18,6 +18,9 @@ The caption formatting can be changed in the last line of code, marked by the co
   - If you refer this to the above examples, it is easy to figure out which part does what
   For example, if you want to remove everything but the name of the character, remove ", char, whitebg, {font_path}" portion from the code
 
+The naming for the special characters have been abbreviated on purpose
+  - If you wish to change any of the abbreviated names for special characters, you can just edit the fonts.py file where you find the list
+  - Be aware that you cannot use many of those characters in the filename itself, which is the reason for giving them English names
 
 INSTRUCTIONS:
 
