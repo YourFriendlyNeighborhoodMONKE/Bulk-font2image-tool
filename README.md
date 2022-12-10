@@ -51,3 +51,9 @@ FINAL THOUGHTS:
 - Have a banana and enjoy!
 
 
+Examples of what the images of Times New Roman look like:
+
+![h, char, whitebg, Times](https://user-images.githubusercontent.com/115096590/206815786-9fcaa162-b2ec-438d-8064-f2f2299716a9.png)
+![4, char, whitebg, Times](https://user-images.githubusercontent.com/115096590/206815849-d9e21c2e-f3c2-4e77-bf39-50b38345964a.png)
+![underscore, char, whitebg, Times](https://user-images.githubusercontent.com/115096590/206815896-64832ae1-bd3b-48dd-ad3f-9e07d69c7bdc.png)
+![percent, char, whitebg, Times](https://user-images.githubusercontent.com/115096590/206815955-4b839501-6af0-4a35-b3d0-53994649fda5.png)
