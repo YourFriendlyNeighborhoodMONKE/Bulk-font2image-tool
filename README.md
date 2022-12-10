@@ -33,7 +33,7 @@ The naming for the special characters have been abbreviated on purpose
 # Instructions:
 
 - Make an empty folder, name it whatever you want
-- Paste this script into that folder
+- Paste the fonts.py script into that folder
 - Go to C:\Windows\Fonts/ and select which fonts you would like to use
 - Copy these fonts into the folder you just created
 - Open Command Prompt into this directory
