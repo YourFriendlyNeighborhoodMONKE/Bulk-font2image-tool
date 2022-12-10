@@ -1,5 +1,5 @@
 # Bulk-font2image-tool
-The purpose of this script is to get image files of each individual character of any .ttf format fonts automatically on multiple fonts
+The purpose of this script is to create image files of each individual character of any .ttf format fonts automatically on multiple fonts at the same time just by running the script
 
 With this script, you will get 600x600 pixel PNG files of the following images:
 - English alphabet letters
