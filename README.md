@@ -1,8 +1,8 @@
+# Bulk-font2image-tool
+
 ![image](https://user-images.githubusercontent.com/115096590/206816863-71318b9d-75ee-4755-950e-388eae7e5fb0.png)
 
 
-
-# Bulk-font2image-tool
 The purpose of this script is to create image files of each individual character of any .ttf format fonts automatically on multiple fonts at the same time just by running the script
 
 With this script, you will get 600x600 pixel PNG files of the following images:
@@ -29,7 +29,7 @@ The naming for the special characters have been abbreviated on purpose
   - If you wish to change any of the abbreviated names for special characters, you can just edit the fonts.py file where you find the list
   - Be aware that you cannot use many of those characters in the filename itself, which is the reason for giving them English names
 
-INSTRUCTIONS:
+# INSTRUCTIONS:
 
 - Make an empty folder, name it whatever you want
 - Paste this script into that folder
@@ -45,7 +45,7 @@ The script will automatically make subfolders based on the filename of each font
 
 This process might take a while if you have a lot of fonts so please be patient
 
-FINAL THOUGHTS:
+# FINAL THOUGHTS:
 
 - Please review the results keeping in mind that some fonts might escape the boundaries of the image
     This usually doesn't happen with most fonts
