@@ -18,6 +18,7 @@ For example:
 The caption formatting can be changed in the last line of code, marked by the comment pointing to the segment
 {symbol_name}, char, whitebg, {font-path}.png
   - If you refer this to the above examples, it is easy to figure out which part does what
+  
   For example, if you want to remove everything but the name of the character, remove ", char, whitebg, {font_path}" portion from the code
 
 The naming for the special characters have been abbreviated on purpose
