@@ -48,7 +48,7 @@ This process might take a while if you have a lot of fonts so please be patient
 
 # Final Thoughts:
 
-- Please review the results keeping in mind that some fonts might escape the boundaries of the image
+- Please review the results keeping in mind that some fonts might escape the boundaries of the image.
     This usually doesn't happen with most fonts
 
 - Also remember that you are liable and responsible to check the license and terms of use for each font
