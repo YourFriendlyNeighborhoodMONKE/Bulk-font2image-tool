@@ -32,8 +32,11 @@ INSTRUCTIONS:
 - Type: python fonts.py
 - Hit Enter key
 
-The script will automatically make subfolders based on the filename of each font and save images of each character into the subfolders
-This process might take a while if you have a lot of fonts
+The script will automatically make subfolders based on the filename of each font and save images of each character into the subfolders.
+- You might want to edit the names of the fonts separately if you want the output filenames to be cleaner
+- Alternatively just remove the {font_path} portion to remove the font names from the filename as described above
+
+This process might take a while if you have a lot of fonts so please be patient
 
 FINAL THOUGHTS:
 
