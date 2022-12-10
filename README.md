@@ -7,11 +7,13 @@ With this script, you will get 600x600 pixel PNG files of the following images:
 - Special characters: !"#$%&'()*+, -./:;<=>?@[\]^_`{|}~
 
 By default the images are captioned (named) in the following format:
+
   letter/number/abbreviated name of special character, char, whitebg, name of the font
+
 For example:
-    4, char, whitebg, Arial
-    d, char, whitebg, TimesNewRoman
-    semicolon, whitebg, ComicSans (hehe)
+   - 4, char, whitebg, Arial
+   - d, char, whitebg, TimesNewRoman
+   - semicolon, whitebg, ComicSans (hehe)
 
 The caption formatting can be changed in the last line of code, marked by the comment pointing to the segment
 {symbol_name}, char, whitebg, {font-path}.png
