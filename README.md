@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/115096590/206816863-71318b9d-75ee-4755-950e-388eae7e5fb0.png)
+
+
+
 # Bulk-font2image-tool
 The purpose of this script is to create image files of each individual character of any .ttf format fonts automatically on multiple fonts at the same time just by running the script
 
